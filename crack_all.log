@@ -1,515 +1,425 @@
-[18:40:41] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
-[18:40:41] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260820121754.cfile -p -o /home/nirvana/a51_toolS/tmp22a22iam.gsm
-[18:40:44] extraction finie en 3s -> tmp3qyvlo93.bursts
-[18:40:44] bursts: 3164  FN 105256 -> 108564
-[18:40:44] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=192  lots de 8
-[18:40:44] connecte a deka 127.0.0.1:6666
-[18:40:44]   soumis count=163176 ks=100000000111011101001010...
-[18:40:44]   soumis count=163209 ks=011110101000011111011000...
-[18:40:44]   soumis count=163242 ks=000110111000110111010000...
-[18:40:44]   soumis count=163275 ks=110100011111101111110000...
-[18:40:44] lot 0 : 4 keystreams soumis, attente des resultats...
-[18:42:09] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[18:44:16] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
-[18:44:16] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260820121754.cfile -p -o /home/nirvana/a51_toolS/tmp1kgoaac2.gsm
-[18:44:19] extraction finie en 3s -> tmpeg_mtukf.bursts
-[18:44:19] bursts: 3164  FN 105256 -> 108564
-[18:44:19] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=192  lots de 8
-[18:44:19] connecte a deka 127.0.0.1:6666
-[18:44:19] lot 0 : 8 keystreams soumis, attente des resultats...
-[18:45:32] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[18:45:32] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[18:45:33] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[18:45:33] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[18:45:33] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[18:45:33] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[18:45:34] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[18:45:35] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[18:46:23] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
-[18:46:23] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260820121754.cfile -p -o /home/nirvana/a51_toolS/tmpp_5ytva6.gsm
-[18:46:26] extraction finie en 3s -> tmpevmuxh67.bursts
-[18:46:26] bursts: 3164  FN 105256 -> 108564
-[18:46:26] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=192  lots de 8
-[18:46:26] connecte a deka 127.0.0.1:6666
-[18:46:26] lot 0 : 8 keystreams soumis, attente des resultats...
-[18:46:39] lot 0 : 8/8 traites, 0 Found
-[18:46:39] lot 1 : 8 keystreams soumis, attente des resultats...
-[18:46:52] lot 1 : 8/8 traites, 0 Found
-[18:46:52] lot 2 : 8 keystreams soumis, attente des resultats...
-[18:47:05] lot 2 : 8/8 traites, 0 Found
-[18:47:05] lot 3 : 8 keystreams soumis, attente des resultats...
-[18:47:17] lot 3 : 8/8 traites, 0 Found
-[18:47:17] lot 4 : 8 keystreams soumis, attente des resultats...
-[18:47:30] lot 4 : 8/8 traites, 0 Found
-[18:47:30] lot 5 : 8 keystreams soumis, attente des resultats...
-[18:47:43] lot 5 : 8/8 traites, 0 Found
-[18:47:43] lot 6 : 8 keystreams soumis, attente des resultats...
-[18:47:56] lot 6 : 8/8 traites, 0 Found
-[18:47:56] lot 7 : 8 keystreams soumis, attente des resultats...
-[18:48:09] lot 7 : 8/8 traites, 0 Found
-[18:48:09] lot 8 : 8 keystreams soumis, attente des resultats...
-[18:48:21] lot 8 : 8/8 traites, 0 Found
-[18:48:21] lot 9 : 8 keystreams soumis, attente des resultats...
-[18:48:34] lot 9 : 8/8 traites, 0 Found
-[18:48:34] lot 10 : 8 keystreams soumis, attente des resultats...
-[18:48:47] lot 10 : 8/8 traites, 0 Found
-[18:48:47] lot 11 : 8 keystreams soumis, attente des resultats...
-[18:48:59] lot 11 : 8/8 traites, 0 Found
-[18:48:59] lot 12 : 8 keystreams soumis, attente des resultats...
-[18:49:12] lot 12 : 8/8 traites, 0 Found
-[18:49:12] lot 13 : 8 keystreams soumis, attente des resultats...
-[18:49:24] lot 13 : 8/8 traites, 0 Found
-[18:49:24] lot 14 : 8 keystreams soumis, attente des resultats...
-[18:49:37] lot 14 : 8/8 traites, 0 Found
-[18:49:37] lot 15 : 8 keystreams soumis, attente des resultats...
-[18:49:49] lot 15 : 8/8 traites, 0 Found
-[18:49:49] lot 16 : 8 keystreams soumis, attente des resultats...
-[18:50:02] lot 16 : 8/8 traites, 0 Found
-[18:50:02] lot 17 : 8 keystreams soumis, attente des resultats...
-[18:50:14] lot 17 : 8/8 traites, 1 Found
-[18:50:14] Found etat=95525BD4F2FB56FB @ 6 count=164746 -> verification find_kc...
-[18:50:15] lot 18 : 8 keystreams soumis, attente des resultats...
-[18:50:27] lot 18 : 8/8 traites, 0 Found
-[18:50:27] lot 19 : 8 keystreams soumis, attente des resultats...
-[18:50:40] lot 19 : 8/8 traites, 0 Found
-[18:50:40] lot 20 : 8 keystreams soumis, attente des resultats...
-[18:50:52] lot 20 : 8/8 traites, 0 Found
-[18:50:52] lot 21 : 8 keystreams soumis, attente des resultats...
-[18:51:05] lot 21 : 8/8 traites, 0 Found
-[18:51:05] lot 22 : 8 keystreams soumis, attente des resultats...
-[18:51:17] lot 22 : 8/8 traites, 0 Found
-[18:51:17] lot 23 : 8 keystreams soumis, attente des resultats...
-[18:51:30] lot 23 : 8/8 traites, 0 Found
-[18:51:30] FINI sans MATCHED : 1 Found en 303s. (essaie plus de blocs / autre plaintext)
-[18:51:30] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[18:55:58] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[18:55:58] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp8xqj8vc4.gsm
-[18:55:59] extraction finie en 1s -> tmpfig8upnn.bursts
-[19:02:29] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:02:29] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmphj4b1sb8.gsm
-[19:02:30] extraction finie en 1s -> tmpuk_vayme.bursts
-[19:02:30] 0 burst avec -s 1083333 -m TCHF -t 2 -> auto-detection...
-[19:02:30] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 (jusqu'a 15 candidats, ~12s chacun)...
-[19:02:31]   rate=1083333   -> 0 bursts
-[19:02:33]   rate=574712    -> 92 bursts
-[19:02:34]   rate=1000000   -> 0 bursts
-[19:02:35]   rate=1625000   -> 0 bursts
-[19:02:36]   rate=812500    -> 0 bursts
-[19:02:37]   rate=2166666   -> 0 bursts
-[19:02:38]   rate=541666    -> 0 bursts
-[19:02:39]   rate=892857    -> 0 bursts
-[19:02:41]   rate=781250    -> 0 bursts
-[19:02:42]   rate=574713    -> 0 bursts
-[19:02:44]   rate=571429    -> 0 bursts
-[19:02:45]   rate=1562500   -> 0 bursts
-[19:02:46]   rate=1041667   -> 0 bursts
-[19:02:48]   rate=520833    -> 0 bursts
-[19:02:50]   rate=390625    -> 0 bursts
-[19:02:50] AUTO: meilleur = 574712 Hz (92 bursts)
-[19:02:50] AUTO: extraction avec -s 574712 -m BCCH_SDCCH4 -t 0
-[19:02:50] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 514 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp6295znxx.gsm
-[19:02:52] extraction finie en 2s -> tmpubyruzp6.bursts
-[19:02:52] bursts: 3380  FN 860902 -> 864349
-[19:02:52] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=110  lots de 8
-[19:02:52] connecte a deka 127.0.0.1:6666
-[19:02:52] lot 0 : 8 keystreams soumis, attente des resultats...
-[19:03:06] lot 0 : 8/8 traites, 1 Found
-[19:03:06] Found etat=982303EB3C89CAE5 @ 5 count=1329872 -> verification find_kc...
-[19:03:07] lot 1 : 8 keystreams soumis, attente des resultats...
-[19:03:15] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[19:03:15] lot 1 : 5/8 traites, 0 Found
-[19:03:15] arret demande.
-[19:03:15] FINI sans MATCHED : 1 Found en 24s. (essaie plus de blocs / autre plaintext)
-[19:03:15] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[19:04:45] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:04:45] extraction: grgsm_decode -m TCHF -t 2 -a 725 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp88vlfqzr.gsm
-[19:04:46] extraction finie en 1s -> tmpq638q6du.bursts
-[19:04:46] 0 burst avec -s 1083333 -m TCHF -t 2 -> auto-detection...
-[19:04:46] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:04:47]   rate=1083333   -> 0 bursts
-[19:04:48]   rate=574712    -> 3380 bursts
-[19:04:48]   (hit franc, arret du sweep)
-[19:04:48] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:04:48] AUTO: extraction avec -s 574712 -m BCCH_SDCCH4 -t 0
-[19:04:48] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp69u17umr.gsm
-[19:04:50] extraction finie en 2s -> tmp5zcg8572.bursts
-[19:04:50] bursts: 3380  FN 860902 -> 864349
-[19:04:50] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=110  lots de 8
-[19:04:50] connecte a deka 127.0.0.1:6666
-[19:04:50] lot 0 : 8 keystreams soumis, attente des resultats...
-[19:04:55] lot 0 : 8/8 traites, 1 Found
-[19:04:55] Found etat=982303EB3C89CAE5 @ 5 count=1329872 -> verification find_kc...
-[19:04:56] lot 1 : 8 keystreams soumis, attente des resultats...
-[19:05:01] lot 1 : 8/8 traites, 0 Found
-[19:05:02] lot 2 : 8 keystreams soumis, attente des resultats...
-[19:05:14] lot 2 : 8/8 traites, 1 Found
-[19:05:14] Found etat=E0D93941541C426C @ 35 count=1330161 -> verification find_kc...
-[19:05:16] lot 3 : 8 keystreams soumis, attente des resultats...
-[19:05:28] lot 3 : 8/8 traites, 0 Found
-[19:05:28] lot 4 : 8 keystreams soumis, attente des resultats...
-[19:05:40] lot 4 : 8/8 traites, 0 Found
-[19:05:41] lot 5 : 8 keystreams soumis, attente des resultats...
-[19:05:53] lot 5 : 8/8 traites, 0 Found
-[19:05:53] lot 6 : 8 keystreams soumis, attente des resultats...
-[19:06:05] lot 6 : 8/8 traites, 0 Found
-[19:06:06] lot 7 : 8 keystreams soumis, attente des resultats...
-[19:06:18] lot 7 : 8/8 traites, 0 Found
-[19:06:18] lot 8 : 8 keystreams soumis, attente des resultats...
-[19:06:31] lot 8 : 8/8 traites, 0 Found
-[19:06:31] lot 9 : 8 keystreams soumis, attente des resultats...
-[19:06:43] lot 9 : 8/8 traites, 0 Found
-[19:06:43] lot 10 : 8 keystreams soumis, attente des resultats...
-[19:06:55] lot 10 : 8/8 traites, 0 Found
-[19:06:55] lot 11 : 8 keystreams soumis, attente des resultats...
-[19:07:08] lot 11 : 8/8 traites, 1 Found
-[19:07:08] Found etat=75FDCD2EA4055FEF @ 46 count=1331762 -> verification find_kc...
-[19:07:09] lot 12 : 8 keystreams soumis, attente des resultats...
-[19:07:21] lot 12 : 8/8 traites, 1 Found
-[19:07:21] Found etat=B7E88F16E899E64C @ 0 count=1331729 -> verification find_kc...
-[19:07:23] lot 13 : 6 keystreams soumis, attente des resultats...
-[19:07:33] lot 13 : 6/6 traites, 0 Found
-[19:07:33] FINI sans MATCHED : 4 Found en 162s. (essaie plus de blocs / autre plaintext)
-[19:07:33] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[19:16:26] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:16:26] extraction: grgsm_decode -m TCHF -t 2 -a 725 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpazhrn6yj.gsm
-[19:16:27] extraction finie en 1s -> tmp9yl6_qfj.bursts
-[19:16:27] 0 burst avec -s 1083333 -m TCHF -t 2 -> auto-detection...
-[19:16:27] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:16:28]   rate=1083333   -> 0 bursts
-[19:16:30]   rate=574712    -> 3380 bursts
-[19:16:30]   (hit franc, arret du sweep)
-[19:16:30] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:16:30] AUTO: extraction avec -s 574712 -m BCCH_SDCCH4 -t 0
-[19:16:30] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp7nonn_nc.gsm
-[19:16:32] extraction finie en 2s -> tmpphhbr4h6.bursts
-[19:16:32] bursts: 3380  FN 860902 -> 864349
-[19:16:32] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=110  lots de 8
-[19:16:32] connecte a deka 127.0.0.1:6666
-[19:16:32] lot 0 : 8 keystreams soumis, attente des resultats...
-[19:16:37] lot 0 : 8/8 traites, 1 Found
-[19:16:37] Found etat=982303EB3C89CAE5 @ 5 count=1329872 -> verification find_kc...
-[19:16:38] lot 1 : 8 keystreams soumis, attente des resultats...
-[19:16:40] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[19:16:40] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[19:16:41] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[19:16:41] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[19:16:41] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
-[19:16:41] lot 1 : 0/8 traites, 0 Found
-[19:16:41] arret demande.
-[19:16:41] FINI sans MATCHED : 1 Found en 9s. (essaie plus de blocs / autre plaintext)
-[19:16:41] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[19:16:43] ==== NOUVEAU RUN : /home/nirvana/vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:16:43] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 574712 -c /home/nirvana/vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmptalibouy.gsm
-[19:16:55] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:16:55] extraction: grgsm_decode -m TCHF -t 2 -a 725 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpij1lkj60.gsm
-[19:16:56] extraction finie en 1s -> tmpsev6irna.bursts
-[19:16:56] 0 burst avec -s 1083333 -m TCHF -t 2 -> auto-detection...
-[19:16:56] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:16:58]   rate=1083333   -> 0 bursts
-[19:16:59]   rate=574712    -> 3380 bursts
-[19:16:59]   (hit franc, arret du sweep)
-[19:16:59] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:16:59] AUTO: extraction avec -s 574712 -m BCCH_SDCCH4 -t 0
-[19:16:59] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpy7lx8m2i.gsm
-[19:17:01] extraction finie en 2s -> tmpt7nk1eue.bursts
-[19:17:01] bursts: 3380  FN 860902 -> 864349
-[19:17:05] ==== NOUVEAU RUN : /home/nirvana/vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:17:05] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 574712 -c /home/nirvana/vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmphdkmevbw.gsm
-[19:17:07] extraction finie en 2s -> tmps45p_53x.bursts
-[19:17:07] bursts: 48  FN 862210 -> 862570
-[19:17:07]   derive si5: decode SDCCH8 -t1 -s574712 -k1EF00BAB3BAC7002 ...
-[19:17:09]   derive si5: trame = 0001030349061d9f6d1810800000000000000000000000
-[19:17:09] plaintexts=si5  blocs=4  keystreams=13  lots de 8
-[19:17:09] connecte a deka 127.0.0.1:6666
-[19:17:09]   soumis count=1332356 ks=000000000000000000000000...
-[19:17:09]   soumis count=1332354 ks=000111000111110100001110...
-[19:17:09]   soumis count=1332387 ks=010001100100110000110010...
-[19:17:09]   soumis count=1332420 ks=010100011110111101100111...
-[19:17:09]   soumis count=1332453 ks=001110000011011110100011...
-[19:17:09]   soumis count=1332352 ks=011010100011001111111010...
-[19:17:09]   soumis count=1332385 ks=011100001101111111101101...
-[19:17:09]   soumis count=1332418 ks=011010100011100011110000...
-[19:17:09] lot 0 : 8 keystreams soumis, attente des resultats...
-[19:17:09]   crack #335 took 0 msec
-[19:17:15]   crack #336 took 5782 msec
-[19:17:15]   crack #337 took 6375 msec
-[19:17:17]   crack #338 took 7769 msec
-[19:17:17]   crack #339 took 8561 msec
-[19:17:18]   crack #340 took 9555 msec
-[19:17:19]   crack #341 took 10554 msec
-[19:17:21]   crack #342 took 11737 msec
-[19:17:21] lot 0 : 8/8 traites, 0 Found
-[19:17:21]   soumis count=1332451 ks=101111110110010000001001...
-[19:17:21]   soumis count=1332376 ks=011101101011111011000110...
-[19:17:21]   soumis count=1332409 ks=111111100111000000010000...
-[19:17:21]   soumis count=1332416 ks=011100001110010100000011...
-[19:17:21]   soumis count=1332449 ks=000001110101000000110111...
-[19:17:21] lot 1 : 5 keystreams soumis, attente des resultats...
-[19:17:22] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:17:22] extraction: grgsm_decode -m TCHF -t 2 -a 725 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp5dhegv7i.gsm
-[19:17:23] extraction finie en 1s -> tmp4s_ns5zr.bursts
-[19:17:23] 0 burst avec -s 1083333 -m TCHF -t 2 -> auto-detection...
-[19:17:23] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:17:25]   rate=1083333   -> 0 bursts
-[19:17:26]   crack #343 took 5085 msec
-[19:17:26]   crack #344 took 5680 msec
-[19:17:27]   rate=574712    -> 3380 bursts
-[19:17:27]   (hit franc, arret du sweep)
-[19:17:27] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:17:27] AUTO: extraction avec -s 574712 -m BCCH_SDCCH4 -t 0
-[19:17:27] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpwjb_05ed.gsm
-[19:17:27]   crack #345 took 6480 msec
-[19:17:29]   crack #346 took 7883 msec
-[19:17:29] extraction finie en 2s -> tmp2mczbgix.bursts
-[19:17:29] bursts: 3380  FN 860902 -> 864349
-[19:17:29] plaintexts=fill_lapdm  blocs=24  keystreams=55  lots de 8
-[19:17:29] connecte a deka 127.0.0.1:6666
-[19:17:29] lot 0 : 8 keystreams soumis, attente des resultats...
-[19:17:30]   crack #347 took 8957 msec
-[19:17:30] lot 1 : 5/5 traites, 0 Found
-[19:17:30] FINI sans MATCHED : 0 Found en 21s. (essaie plus de blocs / autre plaintext)
-[19:17:30] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[19:17:41] lot 0 : 8/8 traites, 0 Found
-[19:17:41] lot 1 : 8 keystreams soumis, attente des resultats...
-[19:17:53] lot 1 : 8/8 traites, 1 Found
-[19:17:53] Found etat=A5235B70BDC3C095 @ 29 count=1330161 -> verification find_kc...
-[19:17:54] lot 2 : 8 keystreams soumis, attente des resultats...
-[19:18:05] lot 2 : 8/8 traites, 0 Found
-[19:18:05] lot 3 : 8 keystreams soumis, attente des resultats...
-[19:18:18] lot 3 : 8/8 traites, 0 Found
-[19:18:18] lot 4 : 8 keystreams soumis, attente des resultats...
-[19:18:30] lot 4 : 8/8 traites, 0 Found
-[19:18:30] lot 5 : 8 keystreams soumis, attente des resultats...
-[19:18:42] lot 5 : 8/8 traites, 1 Found
-[19:18:42] Found etat=D869AD9A57ACD173 @ 16 count=1331696 -> verification find_kc...
-[19:18:43] lot 6 : 7 keystreams soumis, attente des resultats...
-[19:18:54] lot 6 : 7/7 traites, 0 Found
-[19:18:54] FINI sans MATCHED : 2 Found en 86s. (essaie plus de blocs / autre plaintext)
-[19:18:54] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[19:24:42] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:24:42] extraction: grgsm_decode -m TCHF -t 2 -a 725 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpujrnuz08.gsm
-[19:24:43] extraction finie en 1s -> tmp3fgp6nec.bursts
-[19:24:43] 0 burst avec -s 1083333 -m TCHF -t 2 -> auto-detection...
-[19:24:43] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:24:44]   rate=1083333   -> 0 bursts
-[19:24:46]   rate=574712    -> 3380 bursts
-[19:24:46]   (hit franc, arret du sweep)
-[19:24:46] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:24:46] AUTO: extraction avec -s 574712 -m BCCH_SDCCH4 -t 0
-[19:24:46] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp808eb_hg.gsm
-[19:24:48] extraction finie en 2s -> tmpzr3sy05r.bursts
-[19:24:48] bursts: 3380  FN 860902 -> 864349
-[19:24:48]   derive si5 (SANS cle): decode BCCH_SDCCH4 -t0 -s574712 ...
-[19:24:49]   derive si5: introuvable en clair (change -m/-t, ou pas de trame claire)
-[19:25:00] ==== NOUVEAU RUN : /home/nirvana/vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:25:00] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 574712 -c /home/nirvana/vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpp4q1zlrd.gsm
-[19:25:02] extraction finie en 2s -> tmprqtp2zip.bursts
-[19:25:02] bursts: 48  FN 862210 -> 862570
-[19:25:02]   derive si5 (SANS cle): decode SDCCH8 -t1 -s574712 ...
-[19:25:03]   derive si5 (TA=0): trame = 0000030349061d9f6d1810800000000000000000000000
-[19:25:03] plaintexts=si5  blocs=4  keystreams=16  lots de 8
-[19:25:03] connecte a deka 127.0.0.1:6666
-[19:25:03]   soumis count=1332356 ks=000000000000100000000000...
-[19:25:03]   soumis count=1332389 ks=000000000010100000010000...
-[19:25:03]   soumis count=1332422 ks=000100000000000000000000...
-[19:25:03]   soumis count=1332455 ks=000000001000000000000000...
-[19:25:03]   soumis count=1332354 ks=000111000111010100001110...
-[19:25:03]   soumis count=1332387 ks=010001100110010000100010...
-[19:25:03]   soumis count=1332420 ks=010000011110111101100111...
-[19:25:04]   soumis count=1332453 ks=001110001011011110100011...
-[19:25:04] lot 0 : 8 keystreams soumis, attente des resultats...
-[19:25:09]   crack #403 took 6021 msec
-[19:25:10]   crack #404 took 7013 msec
-[19:25:11]   crack #405 took 7805 msec
-[19:25:12]   crack #406 took 8801 msec
-[19:25:13]   crack #407 took 9994 msec
-[19:25:14]   crack #408 took 10986 msec
-[19:25:16]   crack #409 took 12178 msec
-[19:25:16]   crack #410 took 12759 msec
-[19:25:16] lot 0 : 8/8 traites, 1 Found
-[19:25:16] Found etat=934EF5E1E65087AA @ 4 count=1332387 -> verification find_kc...
-[19:25:16]   find_kc: 15 trames essayees, aucun match pour etat 934EF5E1E65087AA
-[19:25:16]   soumis count=1332352 ks=011010100011101111111010...
-[19:25:16]   soumis count=1332385 ks=011100001111011111111101...
-[19:25:16]   soumis count=1332418 ks=011110100011100011110000...
-[19:25:16]   soumis count=1332451 ks=101111111110010000001001...
-[19:25:16]   soumis count=1332376 ks=011101101011011011000110...
-[19:25:16]   soumis count=1332409 ks=111111100101100000000000...
-[19:25:17]   soumis count=1332416 ks=011000001110010100000011...
-[19:25:17]   soumis count=1332449 ks=000001111101000000110111...
-[19:25:17] lot 1 : 8 keystreams soumis, attente des resultats...
-[19:25:22]   crack #411 took 5608 msec
-[19:25:23]   crack #412 took 6201 msec
-[19:25:23]   crack #413 took 7001 msec
-[19:25:25]   crack #414 took 8200 msec
-[19:25:26]   crack #415 took 9195 msec
-[19:25:27]   crack #416 took 10190 msec
-[19:25:28]   crack #417 took 11384 msec
-[19:25:29]   crack #418 took 12972 msec
-[19:25:29] lot 1 : 8/8 traites, 1 Found
-[19:25:29] Found etat=D5EB21665D2B8F25 @ 13 count=1332451 -> verification find_kc...
-[19:25:30] *** KC TROUVE *** (etat=D5EB21665D2B8F25 bitpos=13 count=1332451 verif-count=1332352)
-[19:25:30]    KC(1): 1e f0 0b ab 3b ac 70 02  *** MATCHED ***
-[19:25:30] TERMINE en 26s, 2 Found au total.
-[19:25:30] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[19:25:55] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:25:55] extraction: grgsm_decode -m TCHF -t 2 -a 725 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp43qlvn63.gsm
-[19:25:56] extraction finie en 1s -> tmp2u3hbzmc.bursts
-[19:25:56] 0 burst avec -s 1083333 -m TCHF -t 2 -> auto-detection...
-[19:25:56] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:25:57]   rate=1083333   -> 0 bursts
-[19:25:58]   rate=574712    -> 3380 bursts
-[19:25:58]   (hit franc, arret du sweep)
-[19:25:58] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:25:58] AUTO: extraction avec -s 574712 -m BCCH_SDCCH4 -t 0
-[19:25:58] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpzyalc_52.gsm
-[19:26:00] extraction finie en 2s -> tmprgjuglio.bursts
-[19:26:00] bursts: 3380  FN 860902 -> 864349
-[19:26:00]   derive si5 (SANS cle): decode BCCH_SDCCH4 -t0 -s574712 ...
-[19:26:02]   derive si5: introuvable en clair (change -m/-t, ou pas de trame claire)
-[19:27:43] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:27:43] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpm6vdp3xw.gsm
-[19:27:44] extraction finie en 1s -> tmpao4lyisr.bursts
-[19:27:44] 0 burst avec -s 1083333 -m SDCCH8 -t 1 -> auto-detection...
-[19:27:44] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:27:45]   rate=1083333   -> 0 bursts
-[19:27:47]   rate=574712    -> 3380 bursts
-[19:27:47]   (hit franc, arret du sweep)
-[19:27:47] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:27:47] AUTO: extraction avec -s 574712 -m SDCCH8 -t 1
-[19:27:47] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp398l2jn2.gsm
-[19:27:49] extraction finie en 2s -> tmp5l9l17ne.bursts
-[19:27:49] bursts: 48  FN 862210 -> 862570
-[19:27:49]   derive si5 (SANS cle): decode SDCCH8 -t1 -s574712 ...
-[19:27:50]   derive si5 (TA=0): trame = 0000030349061d9f6d1810800000000000000000000000
-[19:27:50] plaintexts=si5  blocs=1  keystreams=4  lots de 8
-[19:27:50] connecte a deka 127.0.0.1:6666
-[19:27:51] lot 0 : 4 keystreams soumis, attente des resultats...
-[19:27:58] lot 0 : 4/4 traites, 0 Found
-[19:27:58] FINI sans MATCHED : 0 Found en 8s. (essaie plus de blocs / autre plaintext)
-[19:27:58] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[19:29:31] ==== NOUVEAU RUN : /home/nirvana/vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:29:31] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
-[19:29:31] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:29:32]   rate=1083333   -> 0 bursts
-[19:29:34]   rate=574712    -> 3380 bursts
-[19:29:34]   (hit franc, arret du sweep)
-[19:29:34] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:29:34]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
-[19:29:35] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:29:35] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 1083333 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp5y2l_e86.gsm
-[19:29:35] extraction finie en 1s -> tmp5chs9xjq.bursts
-[19:29:35] 0 burst avec -s 1083333 -m SDCCH8 -t 1 -> auto-detection...
-[19:29:35] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:29:36]   rate=1083333   -> 0 bursts
-[19:29:36]     SDCCH8 -t1 : SI TROUVE
-[19:29:36]   AUTO-CANAL: si5 -> SDCCH8 -t1
-[19:29:36] AUTO: extraction avec -s 574712 -m SDCCH8 -t 1
-[19:29:36] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 574712 -c /home/nirvana/vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpzjfo4nuk.gsm
-[19:29:36] extraction finie en 0s -> tmpm2prj9sc.bursts
-[19:29:36] 0 burst avec -s 1083333 -m SDCCH8 -t 1 -> auto-detection...
-[19:29:36] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:29:37]   rate=1083333   -> 0 bursts
-[19:29:37]   rate=574712    -> 0 bursts
-[19:29:37]   rate=574712    -> 3380 bursts
-[19:29:37]   (hit franc, arret du sweep)
-[19:29:37] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:29:37] AUTO: extraction avec -s 574712 -m SDCCH8 -t 1
-[19:29:37] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmpg1vhm4g3.gsm
-[19:29:38] extraction finie en 1s -> tmpy3rpcp50.bursts
-[19:29:38]   rate=1000000   -> 0 bursts
-[19:29:39]   rate=1625000   -> 0 bursts
-[19:29:41]   rate=812500    -> 0 bursts
-[19:29:41]   rate=2166666   -> 0 bursts
-[19:29:43]   rate=541666    -> 0 bursts
-[19:29:44]   rate=892857    -> 0 bursts
-[19:29:46]   rate=781250    -> 0 bursts
-[19:29:47]   rate=574713    -> 3380 bursts
-[19:29:47]   (hit franc, arret du sweep)
-[19:29:47] AUTO: meilleur = 574713 Hz (3380 bursts)
-[19:29:47]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
-[19:29:49]     SDCCH8 -t1 : SI TROUVE
-[19:29:49]   AUTO-CANAL: si5 -> SDCCH8 -t1
-[19:29:49] AUTO: extraction avec -s 574713 -m SDCCH8 -t 1
-[19:29:49] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 574713 -c /home/nirvana/vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp8cjm4g57.gsm
-[19:29:50] extraction finie en 2s -> tmpx11a_06m.bursts
-[19:29:50] bursts: 48  FN 862210 -> 862570
-[19:29:50]   derive si5 (SANS cle): decode SDCCH8 -t1 -s574713 ...
-[19:29:52]   derive si5 (TA=0) FN 862242: trame = 0000030349061d9f6d1810800000000000000000000000
-[19:29:52]   AUTO start=862242 (FN du SI clair)
-[19:29:52]   AUTO step=102 (periode SACCH SDCCH8)
-[19:29:52] plaintexts=si5  blocs=4  keystreams=16  lots de 8
-[19:29:52] connecte a deka 127.0.0.1:6666
-[19:29:52]   soumis count=1332356 ks=000000000000100000000000...
-[19:29:52]   soumis count=1332389 ks=000000000010100000010000...
-[19:29:52]   soumis count=1332422 ks=000100000000000000000000...
-[19:29:52]   soumis count=1332455 ks=000000001000000000000000...
-[19:29:52]   soumis count=1332354 ks=000111000111010100001110...
-[19:29:52]   soumis count=1332387 ks=010001100110010000100010...
-[19:29:52]   soumis count=1332420 ks=010000011110111101100111...
-[19:29:52]   soumis count=1332453 ks=001110001011011110100011...
-[19:29:52] lot 0 : 8 keystreams soumis, attente des resultats...
-[19:29:56]   crack #423 took 4102 msec
-[19:29:56]   crack #426 took 4243 msec
-[19:29:56]   crack #425 took 4303 msec
-[19:29:57]   crack #427 took 4423 msec
-[19:29:57]   crack #424 took 4525 msec
-[19:29:57]   crack #429 took 4583 msec
-[19:29:57]   crack #428 took 4645 msec
-[19:29:57]   crack #430 took 4764 msec
-[19:29:57] lot 0 : 8/8 traites, 1 Found
-[19:29:57] Found etat=934EF5E1E65087AA @ 4 count=1332387 -> verification find_kc...
-[19:29:57]   find_kc: 15 trames essayees, aucun match pour etat 934EF5E1E65087AA
-[19:29:57]   soumis count=1332352 ks=011010100011101111111010...
-[19:29:57]   soumis count=1332385 ks=011100001111011111111101...
-[19:29:57]   soumis count=1332418 ks=011110100011100011110000...
-[19:29:57]   soumis count=1332451 ks=101111111110010000001001...
-[19:29:57]   soumis count=1332376 ks=011101101011011011000110...
-[19:29:57]   soumis count=1332409 ks=111111100101100000000000...
-[19:29:57]   soumis count=1332416 ks=011000001110010100000011...
-[19:29:57]   soumis count=1332449 ks=000001111101000000110111...
-[19:29:57] lot 1 : 8 keystreams soumis, attente des resultats...
-[19:30:01]   crack #433 took 3410 msec
-[19:30:01]   crack #432 took 3472 msec
-[19:30:01]   crack #434 took 3593 msec
-[19:30:01]   crack #431 took 3695 msec
-[19:30:01] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
-[19:30:01] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
-[19:30:01] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
-[19:30:02]   crack #436 took 4560 msec
-[19:30:02]   crack #435 took 4622 msec
-[19:30:02]   crack #437 took 4741 msec
-[19:30:02]   rate=1083333   -> 0 bursts
-[19:30:03]   crack #438 took 5324 msec
-[19:30:03] lot 1 : 8/8 traites, 1 Found
-[19:30:03] Found etat=D5EB21665D2B8F25 @ 13 count=1332451 -> verification find_kc...
-[19:30:03] *** KC TROUVE *** (etat=D5EB21665D2B8F25 bitpos=13 count=1332451 verif-count=1332352)
-[19:30:03]    KC(1): 1e f0 0b ab 3b ac 70 02  *** MATCHED ***
-[19:30:03] TERMINE en 11s, 2 Found au total.
-[19:30:03] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
-[19:30:04]   rate=574712    -> 3380 bursts
-[19:30:04]   (hit franc, arret du sweep)
-[19:30:04] AUTO: meilleur = 574712 Hz (3380 bursts)
-[19:30:04]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
-[19:30:06]     SDCCH8 -t1 : SI TROUVE
-[19:30:06]   AUTO-CANAL: si5 -> SDCCH8 -t1
-[19:30:06] AUTO: extraction avec -s 574712 -m SDCCH8 -t 1
-[19:30:06] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmptsaoj79z.gsm
-[19:30:08] extraction finie en 2s -> tmpvc73r7v1.bursts
-[19:30:08] bursts: 48  FN 862210 -> 862570
-[19:30:08]   derive si5 (SANS cle): decode SDCCH8 -t1 -s574712 ...
-[19:30:09]   derive si5 (TA=0) FN 862242: trame = 0000030349061d9f6d1810800000000000000000000000
-[19:30:09]   AUTO start=862242 (FN du SI clair)
-[19:30:09]   AUTO step=102 (periode SACCH SDCCH8)
-[19:30:09] plaintexts=si5  blocs=4  keystreams=16  lots de 8
-[19:30:09] connecte a deka 127.0.0.1:6666
-[19:30:10] lot 0 : 8 keystreams soumis, attente des resultats...
-[19:30:15] lot 0 : 8/8 traites, 1 Found
-[19:30:15] Found etat=934EF5E1E65087AA @ 4 count=1332387 -> verification find_kc...
-[19:30:15] lot 1 : 8 keystreams soumis, attente des resultats...
-[19:30:20] lot 1 : 8/8 traites, 1 Found
-[19:30:20] Found etat=D5EB21665D2B8F25 @ 13 count=1332451 -> verification find_kc...
-[19:30:20] *** KC TROUVE *** (etat=D5EB21665D2B8F25 bitpos=13 count=1332451 verif-count=1332352)
-[19:30:20]    KC(1): 1e f0 0b ab 3b ac 70 02  *** MATCHED ***
-[19:30:20] TERMINE en 11s, 2 Found au total.
-[19:30:20] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
+[19:31:06] ==== NOUVEAU RUN : ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile ====
+[19:31:06] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[19:31:06] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 725 (jusqu'a 15 candidats, ~12s chacun)...
+[19:31:07]   rate=1083333   -> 0 bursts
+[19:31:09]   rate=574712    -> 3380 bursts
+[19:31:09]   (hit franc, arret du sweep)
+[19:31:09] AUTO: meilleur = 574712 Hz (3380 bursts)
+[19:31:09]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[19:31:10]     SDCCH8 -t1 : SI TROUVE
+[19:31:10]   AUTO-CANAL: si5 -> SDCCH8 -t1
+[19:31:10] AUTO: extraction avec -s 574712 -m SDCCH8 -t 1
+[19:31:10] extraction: grgsm_decode -m SDCCH8 -t 1 -a 725 -s 574712 -c ../vf_call6_a725_d174_g5_Kc1EF00BAB3BAC7002.cfile -p -o /home/nirvana/a51_toolS/tmp4uf12i4k.gsm
+[19:31:12] extraction finie en 2s -> tmpsha1ei7o.bursts
+[19:31:12] bursts: 48  FN 862210 -> 862570
+[19:31:12]   derive si5 (SANS cle): decode SDCCH8 -t1 -s574712 ...
+[19:31:14]   derive si5 (TA=0) FN 862242: trame = 0000030349061d9f6d1810800000000000000000000000
+[19:31:14]   AUTO start=862242 (FN du SI clair)
+[19:31:14]   AUTO step=102 (periode SACCH SDCCH8)
+[19:31:14] plaintexts=si5  blocs=4  keystreams=16  lots de 8
+[19:31:14] connecte a deka 127.0.0.1:6666
+[19:31:14] lot 0 : 8 keystreams soumis, attente des resultats...
+[19:31:19] lot 0 : 8/8 traites, 1 Found
+[19:31:19] Found etat=934EF5E1E65087AA @ 4 count=1332387 -> verification find_kc...
+[19:31:19] lot 1 : 8 keystreams soumis, attente des resultats...
+[19:31:25] lot 1 : 8/8 traites, 1 Found
+[19:31:25] Found etat=D5EB21665D2B8F25 @ 13 count=1332451 -> verification find_kc...
+[19:31:25] *** KC TROUVE *** (etat=D5EB21665D2B8F25 bitpos=13 count=1332451 verif-count=1332352)
+[19:31:25]    KC(1): 1e f0 0b ab 3b ac 70 02  *** MATCHED ***
+[19:31:25] TERMINE en 11s, 2 Found au total.
+[19:31:25] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
+[19:31:47] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
+[19:31:47] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[19:31:47] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[19:31:51]   rate=1083333   -> 4264 bursts
+[19:31:51]   (hit franc, arret du sweep)
+[19:31:51] AUTO: meilleur = 1083333 Hz (4264 bursts)
+[19:31:51]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[19:31:54]     SDCCH8 -t1 : -
+[19:32:09] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
+[19:32:12] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
+[19:32:12] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260820121754.cfile -p -o /home/nirvana/a51_toolS/tmp2lzg81jg.gsm
+[19:32:15] extraction finie en 3s -> tmp87wah4cd.bursts
+[19:32:15] bursts: 3164  FN 105256 -> 108564
+[19:32:20] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
+[19:32:20] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260820121754.cfile -p -o /home/nirvana/a51_toolS/tmpoppx87kx.gsm
+[19:32:23] extraction finie en 3s -> tmpxyjadu1q.bursts
+[19:32:23] bursts: 3164  FN 105256 -> 108564
+[19:32:23] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=192  lots de 8
+[19:32:23] connecte a deka 127.0.0.1:6666
+[19:32:23] lot 0 : 8 keystreams soumis, attente des resultats...
+[19:32:30] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[19:32:30] lot 0 : 3/8 traites, 0 Found
+[19:32:30] arret demande.
+[19:32:30] FINI sans MATCHED : 0 Found en 7s. (essaie plus de blocs / autre plaintext)
+[19:32:30] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
+[19:32:34] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
+[19:32:34] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260820121754.cfile -p -o /home/nirvana/a51_toolS/tmpoyh3jw0y.gsm
+[19:32:38] extraction finie en 3s -> tmpka4svqn6.bursts
+[19:32:38] bursts: 3164  FN 105256 -> 108564
+[19:32:38] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=192  lots de 8
+[19:32:38] connecte a deka 127.0.0.1:6666
+[19:32:38] lot 0 : 8 keystreams soumis, attente des resultats...
+[19:32:42] lot 0 : 8/8 traites, 0 Found
+[19:32:43] lot 1 : 8 keystreams soumis, attente des resultats...
+[19:32:50] lot 1 : 8/8 traites, 0 Found
+[19:32:50] lot 2 : 8 keystreams soumis, attente des resultats...
+[19:33:00] lot 2 : 8/8 traites, 0 Found
+[19:33:00] lot 3 : 8 keystreams soumis, attente des resultats...
+[19:33:12] lot 3 : 8/8 traites, 0 Found
+[19:33:12] lot 4 : 8 keystreams soumis, attente des resultats...
+[19:33:25] lot 4 : 8/8 traites, 0 Found
+[19:33:25] lot 5 : 8 keystreams soumis, attente des resultats...
+[19:33:38] lot 5 : 8/8 traites, 0 Found
+[19:33:38] lot 6 : 8 keystreams soumis, attente des resultats...
+[19:34:04] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
+[19:34:04] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260820121754.cfile -p -o /home/nirvana/a51_toolS/tmpvh5v_do7.gsm
+[19:34:10] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
+[19:34:10] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[19:34:10] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[19:34:13]   rate=1083333   -> 4264 bursts
+[19:34:13]   (hit franc, arret du sweep)
+[19:34:13] AUTO: meilleur = 1083333 Hz (4264 bursts)
+[19:34:13]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[19:34:16]     SDCCH8 -t1 : -
+[19:34:19]     SDCCH8 -t0 : -
+[19:34:23]     SDCCH8 -t2 : -
+[19:34:26]     SDCCH8 -t3 : -
+[19:34:29]     SDCCH8 -t4 : -
+[19:34:32]     SDCCH8 -t5 : -
+[19:34:35]     SDCCH8 -t6 : -
+[19:34:39]     SDCCH8 -t7 : -
+[19:34:42]     BCCH_SDCCH4 -t0 : SI TROUVE
+[19:34:42]   AUTO-CANAL: si5 -> BCCH_SDCCH4 -t0
+[19:34:42] AUTO: extraction avec -s 1083333 -m BCCH_SDCCH4 -t 0
+[19:34:42] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 514 -s 1083333 -c ../slice_dl_20260820121754.cfile -p -o /home/nirvana/a51_toolS/tmpp9lbxulc.gsm
+[19:34:45] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[19:34:45] extraction finie en 3s -> tmpf16mwnjl.bursts
+[19:34:45] bursts: 3894  FN 101043 -> 108151
+[19:34:45]   derive si5 (SANS cle): decode BCCH_SDCCH4 -t0 -s1083333 ...
+[19:34:46] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[19:34:46]   derive si5 (TA=0) FN 101940: trame = 0700030349061d9f020000000000000000000000000000
+[19:34:46]   AUTO start=101940 (FN du SI clair)
+[19:34:46]   AUTO step=104 (periode SACCH BCCH_SDCCH4)
+[19:34:46] plaintexts=si5  blocs=24  keystreams=60  lots de 8
+[19:34:46] connecte a deka 127.0.0.1:6666
+[19:34:46] arret demande.
+[19:34:46] FINI sans MATCHED : 0 Found en 0s. (essaie plus de blocs / autre plaintext)
+[19:34:46] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
+[19:34:48] ==== NOUVEAU RUN : ../slice_dl_20260820121754.cfile ====
+[19:34:48] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[19:34:48] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[19:34:51]   rate=1083333   -> 4264 bursts
+[19:34:51]   (hit franc, arret du sweep)
+[19:34:51] AUTO: meilleur = 1083333 Hz (4264 bursts)
+[19:34:51]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[19:34:54]     SDCCH8 -t1 : -
+[19:34:57]     SDCCH8 -t0 : -
+[19:35:00]     SDCCH8 -t2 : -
+[19:35:04]     SDCCH8 -t3 : -
+[19:35:07]     SDCCH8 -t4 : -
+[19:35:10]     SDCCH8 -t5 : -
+[19:35:13]     SDCCH8 -t6 : -
+[19:35:17]     SDCCH8 -t7 : -
+[19:35:20]     BCCH_SDCCH4 -t0 : SI TROUVE
+[19:35:20]   AUTO-CANAL: si5 -> BCCH_SDCCH4 -t0
+[19:35:20] AUTO: extraction avec -s 1083333 -m BCCH_SDCCH4 -t 0
+[19:35:20] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 514 -s 1083333 -c ../slice_dl_20260820121754.cfile -p -o /home/nirvana/a51_toolS/tmpz3zc97ri.gsm
+[19:35:23] extraction finie en 3s -> tmpv6xhf6wm.bursts
+[19:35:23] bursts: 4264  FN 101043 -> 108888
+[19:35:23]   derive si5 (SANS cle): decode BCCH_SDCCH4 -t0 -s1083333 ...
+[19:35:26]   derive si5 (TA=0) FN 101940: trame = 0700030349061d9f020000000000000000000000000000
+[19:35:26]   AUTO start=101940 (FN du SI clair)
+[19:35:26]   AUTO step=104 (periode SACCH BCCH_SDCCH4)
+[19:35:26] plaintexts=si5  blocs=24  keystreams=60  lots de 8
+[19:35:26] connecte a deka 127.0.0.1:6666
+[19:35:27] lot 0 : 8 keystreams soumis, attente des resultats...
+[19:35:38] lot 0 : 8/8 traites, 0 Found
+[19:35:38] lot 1 : 8 keystreams soumis, attente des resultats...
+[19:35:50] lot 1 : 8/8 traites, 0 Found
+[19:35:50] lot 2 : 8 keystreams soumis, attente des resultats...
+[19:36:00] lot 2 : 8/8 traites, 0 Found
+[19:36:00] lot 3 : 8 keystreams soumis, attente des resultats...
+[19:36:13] lot 3 : 8/8 traites, 0 Found
+[19:36:13] lot 4 : 8 keystreams soumis, attente des resultats...
+[19:36:25] lot 4 : 8/8 traites, 0 Found
+[19:36:25] lot 5 : 8 keystreams soumis, attente des resultats...
+[19:36:37] lot 5 : 8/8 traites, 1 Found
+[19:36:37] Found etat=DEF10CA8C22B4AEF @ 50 count=162070 -> verification find_kc...
+[19:36:38] lot 6 : 8 keystreams soumis, attente des resultats...
+[19:36:50] lot 6 : 8/8 traites, 0 Found
+[19:36:50] lot 7 : 4 keystreams soumis, attente des resultats...
+[19:36:58] lot 7 : 4/4 traites, 0 Found
+[19:36:58] FINI sans MATCHED : 1 Found en 92s. (essaie plus de blocs / autre plaintext)
+[19:36:58] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
+[19:37:38] ==== NOUVEAU RUN : ../slice_dl_20260820112618.cfile ====
+[19:37:38] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260820112618.cfile -p -o /home/nirvana/a51_toolS/tmpptefmivv.gsm
+[19:37:46] extraction finie en 9s -> tmpy8lx3fwb.bursts
+[19:37:46] 0 burst avec -s 1083333 -m TCHF -t 2 -> auto-detection...
+[19:37:46] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[19:37:54]   rate=1083333   -> 12048 bursts
+[19:37:54]   (hit franc, arret du sweep)
+[19:37:54] AUTO: meilleur = 1083333 Hz (12048 bursts)
+[19:37:54] AUTO: extraction avec -s 1083333 -m BCCH_SDCCH4 -t 0
+[19:37:54] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 514 -s 1083333 -c ../slice_dl_20260820112618.cfile -p -o /home/nirvana/a51_toolS/tmpvuh264cn.gsm
+[19:38:03] extraction finie en 9s -> tmpojsvsunv.bursts
+[19:38:03] bursts: 12048  FN 175419 -> 198311
+[19:38:03] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=126  lots de 8
+[19:38:03] connecte a deka 127.0.0.1:6666
+[19:38:03] lot 0 : 8 keystreams soumis, attente des resultats...
+[19:38:16] lot 0 : 8/8 traites, 1 Found
+[19:38:16] Found etat=D516A52B634E0E39 @ 50 count=272439 -> verification find_kc...
+[19:38:20] lot 1 : 8 keystreams soumis, attente des resultats...
+[19:38:32] lot 1 : 8/8 traites, 0 Found
+[19:38:32] lot 2 : 8 keystreams soumis, attente des resultats...
+[19:38:41] lot 2 : 8/8 traites, 0 Found
+[19:38:41] lot 3 : 8 keystreams soumis, attente des resultats...
+[19:38:49] lot 3 : 8/8 traites, 0 Found
+[19:38:50] lot 4 : 8 keystreams soumis, attente des resultats...
+[19:39:00] lot 4 : 8/8 traites, 0 Found
+[19:39:00] lot 5 : 8 keystreams soumis, attente des resultats...
+[19:39:08] lot 5 : 8/8 traites, 0 Found
+[19:39:09] lot 6 : 8 keystreams soumis, attente des resultats...
+[19:39:14] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[19:39:15] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[19:39:15] lot 6 : 5/8 traites, 0 Found
+[19:39:15] arret demande.
+[19:39:15] FINI sans MATCHED : 1 Found en 72s. (essaie plus de blocs / autre plaintext)
+[19:39:15] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
+[19:39:30] ==== NOUVEAU RUN : ../slice_dl_20260820112618.cfile ====
+[19:39:30] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[19:39:30] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[19:39:39]   rate=1083333   -> 12048 bursts
+[19:39:39]   (hit franc, arret du sweep)
+[19:39:39] AUTO: meilleur = 1083333 Hz (12048 bursts)
+[19:39:39]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[19:39:48]     SDCCH8 -t1 : -
+[19:39:56]     SDCCH8 -t0 : -
+[19:40:05]     SDCCH8 -t2 : -
+[19:40:13]     SDCCH8 -t3 : -
+[19:40:21]     SDCCH8 -t4 : -
+[19:40:30]     SDCCH8 -t5 : -
+[19:40:38]     SDCCH8 -t6 : -
+[19:40:46]     SDCCH8 -t7 : -
+[19:40:54]     BCCH_SDCCH4 -t0 : SI TROUVE
+[19:40:54]   AUTO-CANAL: si5 -> BCCH_SDCCH4 -t0
+[19:40:54] AUTO: extraction avec -s 1083333 -m BCCH_SDCCH4 -t 0
+[19:40:54] extraction: grgsm_decode -m BCCH_SDCCH4 -t 0 -a 514 -s 1083333 -c ../slice_dl_20260820112618.cfile -p -o /home/nirvana/a51_toolS/tmpga9u77wd.gsm
+[19:41:03] extraction finie en 8s -> tmp9awn7t8r.bursts
+[19:41:03] bursts: 12048  FN 175419 -> 198311
+[19:41:03]   derive si5 (SANS cle): decode BCCH_SDCCH4 -t0 -s1083333 ...
+[19:41:11]   derive si5 (TA=0) FN 177726: trame = 0700030349061d9f020000000000000000000000000000
+[19:41:11]   AUTO start=177726 (FN du SI clair)
+[19:41:11]   AUTO step=104 (periode SACCH BCCH_SDCCH4)
+[19:41:11] plaintexts=si5  blocs=24  keystreams=66  lots de 8
+[19:41:11] connecte a deka 127.0.0.1:6666
+[19:41:11] lot 0 : 8 keystreams soumis, attente des resultats...
+[19:41:22] lot 0 : 8/8 traites, 0 Found
+[19:41:22] lot 1 : 8 keystreams soumis, attente des resultats...
+[19:41:28] lot 1 : 8/8 traites, 0 Found
+[19:41:28] lot 2 : 8 keystreams soumis, attente des resultats...
+[19:41:34] lot 2 : 8/8 traites, 0 Found
+[19:41:34] lot 3 : 8 keystreams soumis, attente des resultats...
+[19:41:42] lot 3 : 8/8 traites, 0 Found
+[19:41:42] lot 4 : 8 keystreams soumis, attente des resultats...
+[19:41:53] lot 4 : 8/8 traites, 0 Found
+[19:41:53] lot 5 : 8 keystreams soumis, attente des resultats...
+[19:42:03] lot 5 : 8/8 traites, 0 Found
+[19:42:03] lot 6 : 8 keystreams soumis, attente des resultats...
+[19:42:09] lot 6 : 8/8 traites, 1 Found
+[19:42:09] Found etat=DEF10CA8C22B4AEF @ 50 count=278802 -> verification find_kc...
+[19:42:10] lot 7 : 8 keystreams soumis, attente des resultats...
+[19:42:15] lot 7 : 8/8 traites, 0 Found
+[19:42:15] lot 8 : 2 keystreams soumis, attente des resultats...
+[19:42:20] lot 8 : 2/2 traites, 0 Found
+[19:42:20] FINI sans MATCHED : 1 Found en 69s. (essaie plus de blocs / autre plaintext)
+[19:42:20] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_toolS/crack_all.log
+[10:44:42] ==== NOUVEAU RUN : ../slice_dl_20260821084405.cfile ====
+[10:44:42] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260821084405.cfile -p -o /home/nirvana/a51_tools/tmp639ivndt.gsm
+[10:44:45] extraction finie en 3s -> tmp989yn1ti.bursts
+[10:44:45] bursts: 2328  FN 100594 -> 103031
+[10:44:45] plaintexts=si5_sacch,si6_sacch  blocs=24  keystreams=192  lots de 8
+[10:44:45] connecte a deka 127.0.0.1:6666
+[10:44:45] lot 0 : 8 keystreams soumis, attente des resultats...
+[10:44:49] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:44:50] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:44:51] lot 0 : 1/8 traites, 0 Found
+[10:44:51] arret demande.
+[10:44:51] FINI sans MATCHED : 0 Found en 6s. (essaie plus de blocs / autre plaintext)
+[10:44:51] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_tools/crack_all.log
+[10:44:57] ==== NOUVEAU RUN : ../slice_dl_20260821084405.cfile ====
+[10:44:57] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[10:44:57] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[10:45:00]   rate=1083333   -> 3548 bursts
+[10:45:00]   (hit franc, arret du sweep)
+[10:45:00] AUTO: meilleur = 1083333 Hz (3548 bursts)
+[10:45:00]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[10:45:04]     SDCCH8 -t1 : SI TROUVE
+[10:45:04]   AUTO-CANAL: si5 -> SDCCH8 -t1
+[10:45:04] AUTO: extraction avec -s 1083333 -m SDCCH8 -t 1
+[10:45:04] extraction: grgsm_decode -m SDCCH8 -t 1 -a 514 -s 1083333 -c ../slice_dl_20260821084405.cfile -p -o /home/nirvana/a51_tools/tmpgn47ygl8.gsm
+[10:45:07] extraction finie en 3s -> tmpi_k9h5jf.bursts
+[10:45:07] bursts: 264  FN 97461 -> 101187
+[10:45:07]   derive si5 (SANS cle): decode SDCCH8 -t1 -s1083333 ...
+[10:45:10]   derive si5 (TA=0) FN 97544: trame = 0700030349061d9f020000000000000000000000000000
+[10:45:10]   AUTO start=97544 (FN du SI clair)
+[10:45:10]   AUTO step=102 (periode SACCH SDCCH8)
+[10:45:10] plaintexts=si5  blocs=16  keystreams=29  lots de 8
+[10:45:10] connecte a deka 127.0.0.1:6666
+[10:45:10] lot 0 : 8 keystreams soumis, attente des resultats...
+[10:45:21] lot 0 : 8/8 traites, 0 Found
+[10:45:22] lot 1 : 8 keystreams soumis, attente des resultats...
+[10:45:34] lot 1 : 8/8 traites, 2 Found
+[10:45:34] Found etat=DD22B5D56A636B48 @ 32 count=152578 -> verification find_kc...
+[10:45:34] *** KC TROUVE *** (etat=DD22B5D56A636B48 bitpos=32 count=152578 verif-count=152611)
+[10:45:34]    KC(6): cd c5 66 3b 16 98 58 00  *** MATCHED ***
+[10:45:34] TERMINE en 24s, 2 Found au total.
+[10:45:34] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_tools/crack_all.log
+[10:54:30] ==== NOUVEAU RUN : ../slice_dl_20260821084405.cfile ====
+[10:54:30] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c ../slice_dl_20260821084405.cfile -p -o /home/nirvana/a51_tools/tmpwtjdt186.gsm
+[10:54:32] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:32] extraction finie en 2s -> tmptjlsghtc.bursts
+[10:54:32] 0 burst avec -s 1083333 -m TCHF -t 2 -> auto-detection...
+[10:54:32] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[10:54:33] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:33]   rate=1083333   -> 0 bursts
+[10:54:34] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:34]   rate=574712    -> 0 bursts
+[10:54:34] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:35]   rate=1000000   -> 0 bursts
+[10:54:35] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:35]   rate=1625000   -> 0 bursts
+[10:54:35] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:35] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:36] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:36] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:36] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:36]   rate=812500    -> 0 bursts
+[10:54:38]   rate=2166666   -> 0 bursts
+[10:54:43] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:43]   rate=541666    -> 0 bursts
+[10:54:44] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:44]   rate=892857    -> 0 bursts
+[10:54:45] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:45] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:45]   rate=781250    -> 0 bursts
+[10:54:45] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:45]   rate=574713    -> 0 bursts
+[10:54:45] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:45]   rate=571429    -> 0 bursts
+[10:54:45] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:45]   rate=1562500   -> 0 bursts
+[10:54:45] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:45]   rate=1041667   -> 0 bursts
+[10:54:45] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:45]   rate=520833    -> 0 bursts
+[10:54:45] Ctrl-C: on draine le lot en cours puis on sort (pas d'orphelins)...
+[10:54:45]   rate=390625    -> 0 bursts
+[10:54:45] AUTO: aucun rate concluant (essaie -m/-t different, ou capture invalide)
+[10:54:57] ==== NOUVEAU RUN : ../slice_dl_20260821084405.cfile ====
+[10:54:57] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[10:54:57] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[10:55:01]   rate=1083333   -> 3548 bursts
+[10:55:01]   (hit franc, arret du sweep)
+[10:55:01] AUTO: meilleur = 1083333 Hz (3548 bursts)
+[10:55:01]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[10:55:04]     SDCCH8 -t1 : SI TROUVE
+[10:55:04]   AUTO-CANAL: si5 -> SDCCH8 -t1
+[10:55:04] AUTO: extraction avec -s 1083333 -m SDCCH8 -t 1
+[10:55:04] extraction: grgsm_decode -m SDCCH8 -t 1 -a 514 -s 1083333 -c ../slice_dl_20260821084405.cfile -p -o /home/nirvana/a51_tools/tmpboujnkt0.gsm
+[10:55:08] extraction finie en 4s -> tmpcyiotqpb.bursts
+[10:55:08] bursts: 264  FN 97461 -> 101187
+[10:55:08]   derive si5 (SANS cle): decode SDCCH8 -t1 -s1083333 ...
+[10:55:11]   derive si5 (TA=0) FN 97544: trame = 0700030349061d9f020000000000000000000000000000
+[10:55:11]   AUTO start=97544 (FN du SI clair)
+[10:55:11]   AUTO step=102 (periode SACCH SDCCH8)
+[10:55:11] plaintexts=si5  blocs=16  keystreams=29  lots de 8
+[10:55:11] connecte a deka 127.0.0.1:6666
+[10:55:11] lot 0 : 8 keystreams soumis, attente des resultats...
+[10:55:18] lot 0 : 8/8 traites, 0 Found
+[10:55:18] lot 1 : 8 keystreams soumis, attente des resultats...
+[10:55:23] lot 1 : 8/8 traites, 2 Found
+[10:55:23] Found etat=BB08ACF7DBFEE740 @ 37 count=152611 -> verification find_kc...
+[10:55:26] Found etat=DD22B5D56A636B48 @ 32 count=152578 -> verification find_kc...
+[10:55:26] *** KC TROUVE *** (etat=DD22B5D56A636B48 bitpos=32 count=152578 verif-count=152611)
+[10:55:26]    KC(6): cd c5 66 3b 16 98 58 00  *** MATCHED ***
+[10:55:26] TERMINE en 14s, 2 Found au total.
+[10:55:26] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_tools/crack_all.log
+[10:58:11] ==== NOUVEAU RUN : slice_dl_20260821085743.cfile ====
+[10:58:11] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[10:58:11] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[10:58:17]   rate=1083333   -> 7073 bursts
+[10:58:17]   (hit franc, arret du sweep)
+[10:58:17] AUTO: meilleur = 1083333 Hz (7073 bursts)
+[10:58:17]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[10:58:23]     SDCCH8 -t1 : SI TROUVE
+[10:58:23]   AUTO-CANAL: si5 -> SDCCH8 -t1
+[10:58:23] AUTO: extraction avec -s 1083333 -m SDCCH8 -t 1
+[10:58:23] extraction: grgsm_decode -m SDCCH8 -t 1 -a 514 -s 1083333 -c slice_dl_20260821085743.cfile -p -o /home/nirvana/a51_tools/tmpb8x5ugtl.gsm
+[10:58:28] extraction finie en 6s -> tmpxfnx749n.bursts
+[10:58:28] bursts: 268  FN 269076 -> 274332
+[10:58:28]   derive si5 (SANS cle): decode SDCCH8 -t1 -s1083333 ...
+[10:58:34]   derive si5 (TA=0) FN 269210: trame = 0700030349061d9f020000000000000000000000000000
+[10:58:34]   AUTO start=269210 (FN du SI clair)
+[10:58:34]   AUTO step=102 (periode SACCH SDCCH8)
+[10:58:34] plaintexts=si5  blocs=16  keystreams=29  lots de 8
+[10:58:34] connecte a deka 127.0.0.1:6666
+[10:58:34] lot 0 : 8 keystreams soumis, attente des resultats...
+[10:58:45] lot 0 : 8/8 traites, 1 Found
+[10:58:45] Found etat=48F9694ACB220959 @ 38 count=416854 -> verification find_kc...
+[10:58:46] *** KC TROUVE *** (etat=48F9694ACB220959 bitpos=38 count=416854 verif-count=416788)
+[10:58:46]    KC(21): 5f e9 35 4f 59 15 84 00  *** MATCHED ***
+[10:58:46] TERMINE en 12s, 1 Found au total.
+[10:58:46] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_tools/crack_all.log
+[11:07:37] ==== NOUVEAU RUN : slice_dl_20260821090705.cfile ====
+[11:07:37] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[11:07:37] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[11:07:42]   rate=1083333   -> 5017 bursts
+[11:07:42]   (hit franc, arret du sweep)
+[11:07:42] AUTO: meilleur = 1083333 Hz (5017 bursts)
+[11:07:42]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[11:07:47]     SDCCH8 -t1 : SI TROUVE
+[11:07:47]   AUTO-CANAL: si5 -> SDCCH8 -t1
+[11:07:47] AUTO: extraction avec -s 1083333 -m SDCCH8 -t 1
+[11:07:47] extraction: grgsm_decode -m SDCCH8 -t 1 -a 514 -s 1083333 -c slice_dl_20260821090705.cfile -p -o /home/nirvana/a51_tools/tmpopz353ca.gsm
+[11:07:51] extraction finie en 4s -> tmpibsj7zrc.bursts
+[11:07:51] bursts: 268  FN 393108 -> 397242
+[11:07:51]   derive si5 (SANS cle): decode SDCCH8 -t1 -s1083333 ...
+[11:07:55]   derive si5 (TA=0) FN 393242: trame = 0700030349061d9f020000000000000000000000000000
+[11:07:55]   AUTO start=393242 (FN du SI clair)
+[11:07:55]   AUTO step=102 (periode SACCH SDCCH8)
+[11:07:55] plaintexts=si5  blocs=16  keystreams=29  lots de 8
+[11:07:55] connecte a deka 127.0.0.1:6666
+[11:07:55] lot 0 : 8 keystreams soumis, attente des resultats...
+[11:08:07] lot 0 : 8/8 traites, 2 Found
+[11:08:07] Found etat=182D32CEF16EFD6A @ 21 count=609319 -> verification find_kc...
+[11:08:07] *** KC TROUVE *** (etat=182D32CEF16EFD6A bitpos=21 count=609319 verif-count=609286)
+[11:08:07]    KC(24): c7 2e 43 7a 82 e3 18 00  *** MATCHED ***
+[11:08:07] TERMINE en 12s, 2 Found au total.
+[11:08:07] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_tools/crack_all.log
+[20:13:09] ==== NOUVEAU RUN : slice_dl_20260821180631.cfile ====
+[20:13:09] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[20:13:09] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[20:13:20]   rate=1083333   -> 14450 bursts
+[20:13:20]   (hit franc, arret du sweep)
+[20:13:20] AUTO: meilleur = 1083333 Hz (14450 bursts)
+[20:13:20]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[20:13:30]     SDCCH8 -t1 : SI TROUVE
+[20:13:30]   AUTO-CANAL: si5 -> SDCCH8 -t1
+[20:13:30] AUTO: extraction avec -s 1083333 -m SDCCH8 -t 1
+[20:13:30] extraction: grgsm_decode -m SDCCH8 -t 1 -a 514 -s 1083333 -c slice_dl_20260821180631.cfile -p -o /home/nirvana/a51_tools/tmpr8za7blx.gsm
+[20:13:41] extraction finie en 11s -> tmpt_fgu8py.bursts
+[20:13:41] bursts: 406  FN 58956 -> 86091
+[20:13:41]   derive si5 (SANS cle): decode SDCCH8 -t1 -s1083333 ...
+[20:13:51]   derive si5 (TA=0) FN 59090: trame = 0700030349061d9f020000000000000000000000000000
+[20:13:51]   AUTO start=59090 (FN du SI clair)
+[20:13:51]   AUTO step=102 (periode SACCH SDCCH8)
+[20:13:51] plaintexts=si5  blocs=24  keystreams=53  lots de 8
+[20:13:51] connecte a deka 127.0.0.1:6666
+[20:13:51] lot 0 : 8 keystreams soumis, attente des resultats...
+[20:14:08] lot 0 : 8/8 traites, 1 Found
+[20:14:08] Found etat=12434AE706D27553 @ 25 count=93190 -> verification find_kc...
+[20:14:09] *** KC TROUVE *** (etat=12434AE706D27553 bitpos=25 count=93190 verif-count=93223)
+[20:14:09]    KC(4): 9e b9 0c 45 8b d8 e0 00  *** MATCHED ***
+[20:14:09] TERMINE en 18s, 1 Found au total.
+[20:14:09] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_tools/crack_all.log
