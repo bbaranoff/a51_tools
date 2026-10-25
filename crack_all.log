@@ -700,3 +700,73 @@
 [23:24:48] TERMINE en 13s, 1 Found au total.
 [23:24:48] compte-rendu: /home/nirvana/a51_tools/slice_dl_20260821180631_report.md
 [23:24:48] connexion fermee proprement (aucun job orphelin). Log: /home/nirvana/a51_tools/crack_all.log
+[02:17:32] ==== NOUVEAU RUN : /root/record.cfile ====
+[02:17:32] extraction: grgsm_decode -m TCHF -t 2 -a 514 -s 1083333 -c /root/record.cfile -p -o /root/a51_tools/tmpes67imnf.gsm
+[02:17:39] extraction finie en 7s -> tmpwmb2v_nt.bursts
+[02:17:39] bursts: 7931  FN 6630 -> 14896
+[02:17:50] ==== NOUVEAU RUN : /root/record.cfile ====
+[02:17:50] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[02:17:50] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[02:17:56]   rate=1083333   -> 8961 bursts
+[02:17:56]   (hit franc, arret du sweep)
+[02:17:56] AUTO: meilleur = 1083333 Hz (8961 bursts)
+[02:17:56]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[02:18:02]     SDCCH8 -t1 : SI TROUVE
+[02:18:02]   AUTO-CANAL: si5 -> SDCCH8 -t1
+[02:18:02] AUTO: extraction avec -s 1083333 -m SDCCH8 -t 1
+[02:18:02] extraction: grgsm_decode -m SDCCH8 -t 1 -a 514 -s 1083333 -c /root/record.cfile -p -o /root/a51_tools/tmp3krpw2ve.gsm
+[02:18:09] extraction finie en 7s -> tmpe_27a8m5.bursts
+[02:18:09] bursts: 244  FN 2174 -> 7296
+[02:18:09]   derive si5 (SANS cle): decode SDCCH8 -t1 -s1083333 ...
+[02:18:15]   derive si5 (TA=0) FN 2174: trame = 0e00030349061d10000000000000000000000000000000
+[02:18:15]   AUTO start=2174 (FN du SI clair)
+[02:18:15]   AUTO step=102 (periode SACCH SDCCH8)
+[02:18:15] plaintexts=si5  blocs=15  keystreams=37  lots de 8
+[02:18:15] connecte a deka 127.0.0.1:6666
+[02:18:16] lot 0 : 8 keystreams soumis, attente des resultats...
+[02:18:39] lot 0 : 8/8 traites, 0 Found
+[02:18:39] lot 1 : 8 keystreams soumis, attente des resultats...
+[02:19:05] lot 1 : 8/8 traites, 0 Found
+[02:19:05] lot 2 : 8 keystreams soumis, attente des resultats...
+[02:19:30] lot 2 : 8/8 traites, 0 Found
+[02:19:31] lot 3 : 8 keystreams soumis, attente des resultats...
+[02:19:56] lot 3 : 8/8 traites, 3 Found
+[02:19:56] Found etat=C7BDEC81CAD3D5D0 @ 47 count=9224 -> verification find_kc...
+[02:19:58] *** KC TROUVE *** (etat=C7BDEC81CAD3D5D0 bitpos=47 count=9224 verif-count=9257)
+[02:19:58]    KC(8): 28 ee f0 41 f8 9e 80 00  *** MATCHED ***
+[02:19:58] TERMINE en 102s, 3 Found au total.
+[02:19:58] compte-rendu: /root/record_report.md
+[02:19:58] connexion fermee proprement (aucun job orphelin). Log: /root/a51_tools/crack_all.log
+[02:22:50] ==== NOUVEAU RUN : /root/record.cfile ====
+[02:22:50] --plain si5/si6 -> canal AUTO SDCCH8/t1 (la ou vit le SI5)
+[02:22:50] AUTO-DETECTION du sample-rate sur BCCH_SDCCH4/t0 -a 514 (jusqu'a 15 candidats, ~12s chacun)...
+[02:22:57]   rate=1083333   -> 8434 bursts
+[02:22:57]   (hit franc, arret du sweep)
+[02:22:57] AUTO: meilleur = 1083333 Hz (8434 bursts)
+[02:22:57]   AUTO-CANAL: recherche du si5 clair sur 9 canaux...
+[02:23:03]     SDCCH8 -t1 : SI TROUVE
+[02:23:03]   AUTO-CANAL: si5 -> SDCCH8 -t1
+[02:23:03] AUTO: extraction avec -s 1083333 -m SDCCH8 -t 1
+[02:23:03] extraction: grgsm_decode -m SDCCH8 -t 1 -a 514 -s 1083333 -c /root/record.cfile -p -o /root/a51_tools/tmpbpeo9zn9.gsm
+[02:23:10] extraction finie en 6s -> tmpuo07cmij.bursts
+[02:23:10] bursts: 251  FN 1428 -> 6684
+[02:23:10]   derive si5 (SANS cle): decode SDCCH8 -t1 -s1083333 ...
+[02:23:16]   derive si5 (TA=0) FN 1460: trame = 0e00030349061d10000000000000000000000000000000
+[02:23:16]   AUTO start=1460 (FN du SI clair)
+[02:23:16]   AUTO step=102 (periode SACCH SDCCH8)
+[02:23:16] plaintexts=si5  blocs=15  keystreams=37  lots de 8
+[02:23:16] connecte a deka 127.0.0.1:6666
+[02:23:16] lot 0 : 8 keystreams soumis, attente des resultats...
+[02:23:44] lot 0 : 8/8 traites, 0 Found
+[02:23:44] lot 1 : 8 keystreams soumis, attente des resultats...
+[02:24:09] lot 1 : 8/8 traites, 0 Found
+[02:24:10] lot 2 : 8 keystreams soumis, attente des resultats...
+[02:24:34] lot 2 : 8/8 traites, 0 Found
+[02:24:34] lot 3 : 8 keystreams soumis, attente des resultats...
+[02:25:02] lot 3 : 8/8 traites, 1 Found
+[02:25:02] Found etat=F5D7888F5DF26372 @ 28 count=9236 -> verification find_kc...
+[02:25:03] *** KC TROUVE *** (etat=F5D7888F5DF26372 bitpos=28 count=9236 verif-count=9269)
+[02:25:03]    KC(1): fa 9f fe ac 33 37 4c 00  *** MATCHED ***
+[02:25:03] TERMINE en 107s, 1 Found au total.
+[02:25:03] compte-rendu: /root/record_report.md
+[02:25:03] connexion fermee proprement (aucun job orphelin). Log: /root/a51_tools/crack_all.log

@@ -6,7 +6,7 @@
 #
 # Lots drainés (aucun job orphelin), Ctrl-C propre. Logs: stdout + crack_all.log.
 #
-# Usage: python3 crack_all.py <cfile|bursts> [--mode TCHF --ts 2 --arfcn 514 --samp 1083333]
+# Usage: python3 crack_all.py <cfile|bursts> [--mode TCHF --ts 2 --arfcn 1 --samp 1083333]
 #        [--start FN --step 104 --maxblocks 24 --plain si5_sacch,si6_sacch --batch 8]
 #        [--secs 320 --log crack_all.log --verbose]
 
@@ -400,7 +400,7 @@ def main():
     _REPORT.start_time=datetime.now()
     names=opt('--plain','si5_sacch,si6_sacch').split(',')
     batch=int(opt('--batch','8'))
-    mode=opt2('--mode','-m','TCHF'); ts=opt2('--ts','-t','2'); arfcn=opt2('--arfcn','-a','514'); samp=opt2('--samp','-s','1083333')
+    mode=opt2('--mode','-m','TCHF'); ts=opt2('--ts','-t','2'); arfcn=opt2('--arfcn','-a','1'); samp=opt2('--samp','-s','1083333')
     force_si = any(n in ('si5','si6') for n in names) and not has('--mode','-m') and not has('--ts','-t')
     if force_si:
         mode, ts = 'SDCCH8', '1'
